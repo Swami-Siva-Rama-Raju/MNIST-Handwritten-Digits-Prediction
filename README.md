@@ -34,10 +34,10 @@ This project is a handwritten digit recognition model built using an Artificial 
 * Loss: 0.05 (Cross Entropy Loss)
   
 # **Demo Video**
+https://drive.google.com/file/d/1Q6Wh8ikJn4-AdX-ORfyYLJjELFT_V7J0/view?usp=sharing
 
-
-🤝 Contributing
-Want to improve this project? Follow these steps:
+# **🤝 Contributing**
+* Want to improve this project? Follow these steps:
 1. Fork this repository
 2. Create a new branch: git checkout -b feature-name
 3. Commit your changes: git commit -m "Added a new feature"
